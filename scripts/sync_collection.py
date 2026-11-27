@@ -43,23 +43,36 @@ def fetch_rows(csv_url: str | None) -> list[dict[str, str]]:
             title = (r.get("Game Title") or "").strip()
             if not title:
                 continue
-            rows.append({
-                "Shelf": (r.get("Shelf") or "").strip(),
-                "Position": (r.get("Pos") or r.get("Position") or "").strip(),
-                "Game Title": title,
-                "Box Title / Localized": (r.get("Box Title / Localized") or "").strip(),
-                "Type": (r.get("Type") or "Base Game").strip(),
-                "Players": (r.get("Players") or "").strip(),
-                "Play Time": (r.get("Play Time") or "").strip(),
-                "Guide Status": (r.get("Guide Status") or "Not Started").strip(),
-                "GitHub Doc Slug": (r.get("GitHub Doc Slug") or "").strip(),
-                "Notes": (r.get("Notes") or "").strip(),
-            })
+            rows.append(
+                {
+                    "Shelf": (r.get("Shelf") or "").strip(),
+                    "Position": (r.get("Pos") or r.get("Position") or "").strip(),
+                    "Game Title": title,
+                    "Box Title / Localized": (r.get("Box Title / Localized") or "").strip(),
+                    "Type": (r.get("Type") or "Base Game").strip(),
+                    "Players": (r.get("Players") or "").strip(),
+                    "Play Time": (r.get("Play Time") or "").strip(),
+                    "Guide Status": (r.get("Guide Status") or "Not Started").strip(),
+                    "GitHub Doc Slug": (r.get("GitHub Doc Slug") or "").strip(),
+                    "Notes": (r.get("Notes") or "").strip(),
+                }
+            )
         with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=[
-                "Shelf", "Position", "Game Title", "Box Title / Localized",
-                "Type", "Players", "Play Time", "Guide Status", "GitHub Doc Slug", "Notes"
-            ])
+            writer = csv.DictWriter(
+                f,
+                fieldnames=[
+                    "Shelf",
+                    "Position",
+                    "Game Title",
+                    "Box Title / Localized",
+                    "Type",
+                    "Players",
+                    "Play Time",
+                    "Guide Status",
+                    "GitHub Doc Slug",
+                    "Notes",
+                ],
+            )
             writer.writeheader()
             writer.writerows(rows)
         return rows

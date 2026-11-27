@@ -1,0 +1,21 @@
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.8.6
+    hooks:
+      - id: ruff
+        args: [--fix]
+      - id: ruff-format
+
+  - repo: local
+    hooks:
+      - id: check-yaml
+        name: check yaml
+        entry: uv run python -c "import sys, yaml; [list(yaml.load_all(open(f, encoding='utf-8'), Loader=yaml.BaseLoader)) for f in sys.argv[1:]]"
+        language: system
+        types: [yaml]
+      - id: check-toml
+        name: check toml
+        entry: uv run python -c "import sys, tomllib; [tomllib.load(open(f, 'rb')) for f in sys.argv[1:]]"
+        language: system
+        types: [toml]
+
