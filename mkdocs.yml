@@ -1,11 +1,6 @@
 site_name: Board Game Quick-Start Guides
 site_description: Personal board game collection catalog, quick-start rules, and setup schematics.
-docs_dir: .
-exclude_docs: |
-  scripts/
-  data/
-  templates/
-  requirements.txt
+docs_dir: docs
 theme:
   name: material
   features:

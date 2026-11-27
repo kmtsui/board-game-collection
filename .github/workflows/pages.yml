@@ -19,6 +19,12 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install mkdocs-material
+      - name: Stage docs directory
+        run: |
+          mkdir -p docs
+          cp README.md docs/index.md
+          cp -r guides docs/guides
+          if [ -d assets ]; then cp -r assets docs/assets; fi
       - run: mkdocs build --site-dir site
       - uses: actions/upload-pages-artifact@v3
         with:
