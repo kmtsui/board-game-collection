@@ -1,0 +1,16 @@
+site_name: Board Game Quick-Start Guides
+site_description: Personal board game collection catalog, quick-start rules, and setup schematics.
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format

@@ -1,0 +1,63 @@
+Shelf,Position,Game Title,Box Title / Localized,Type,Players,Play Time,Guide Status,GitHub Doc Slug,Notes
+1,1,KeyForge: Call of the Archons (2 Player Starter Set),KeyForge: Call of the Archons,Base Game,2,45 min,Not Started,guides/keyforge-call-of-the-archons.md,2 Player Starter Set
+1,2,Power Grid,電力会社 (Power Grid),Base Game,2-6,120 min,Completed,guides/power-grid.md,Japanese edition; includes SVG schematic
+1,3,Unidentified Card Deck (Ziplock Bag),Unlabeled plastic bag,Unknown,TBD,TBD,Needs Verification,guides/shelf-1-pos-3-unverified.md,Card deck in plastic bag on Shelf 1
+1,4,My Dungeon Does Not Lie,職場地下城 - 真心・不騙,Base Game,3-6,30 min,Not Started,guides/my-dungeon-does-not-lie.md,Traditional Chinese edition
+1,5,Cat & Chocolate,キャット＆チョコレート,Base Game,3-6,20 min,Not Started,guides/cat-and-chocolate.md,Japanese edition
+1,6,Imagine,イマジン (Imagine),Base Game,3-8,30 min,Not Started,guides/imagine.md,Transparent card party game
+1,7,CV (What Will Your Life Look Like?),CV,Base Game,2-4,60 min,Not Started,guides/cv.md,Dice-rolling life-building game
+1,8,"Small Card Game (Shelf 1, Pos 8)",Partially obscured Japanese/Chinese box,Base Game,TBD,TBD,Needs Verification,guides/shelf-1-pos-8-unverified.md,Verify exact title on spine
+1,9,Oink Games Small Box (Blue),Oink Games (Deep Sea Adventure / Start-Ups),Base Game,2-6,30 min,Needs Verification,guides/oink-games-blue-box.md,Verify exact Oink Games title
+1,10,Oh My Goods!,オー・マイ・グーッズ！,Base Game,2-4,30 min,Not Started,guides/oh-my-goods.md,Japanese edition
+1,11,Oh My Goods!: Longsdale in Revolt,オー・マイ・グーッズ！ロングズデールの反乱,Expansion,1-4,45 min,Not Started,guides/oh-my-goods-longsdale-in-revolt.md,Chapter expansion
+1,12,Aquarius,Aquarius,Base Game,2-5,30 min,Not Started,guides/aquarius.md,Looney Labs tile/card connection game
+1,13,Citadels,富饒之城 (Citadels),Base Game,2-8,30-60 min,Not Started,guides/citadels.md,Traditional Chinese edition
+1,14,Chrononauts,Chrononauts,Base Game,1-6,30 min,Not Started,guides/chrononauts.md,Time-travel card game
+1,15,Pocket Madness,Pocket Madness,Base Game,2-4,20 min,Not Started,guides/pocket-madness.md,Small box set-collection card game
+1,16,"Slim White Card Box (Shelf 1, Pos 16)",PHANTASM... (partially obscured),Base Game,TBD,TBD,Needs Verification,guides/shelf-1-pos-16-unverified.md,Slim white box on far right of Shelf 1
+2,1,"Slim Dark Box (Shelf 2, Pos 1)",Unidentified dark slim box,Unknown,TBD,TBD,Needs Verification,guides/shelf-2-pos-1-unverified.md,Far left of Shelf 2
+2,2,Unearth,Unearth,Base Game,2-4,60 min,Not Started,guides/unearth.md,Dice placement & set collection
+2,3,Coal Baron,炭鉱王 / 煤炭大亨,Base Game,2-4,60 min,Not Started,guides/coal-baron.md,Worker placement
+2,4,Majesty: For the Realm,マジェスティ,Base Game,2-4,30 min,Not Started,guides/majesty-for-the-realm.md,Japanese edition
+2,5,Evolution: Plantarum,演化論：綠意盎然,Expansion,2-6,60 min,Not Started,guides/evolution-plantarum.md,Traditional Chinese expansion
+2,6,Evolution (Base Game - Chinese Ed.),演化論：物種起源,Base Game,2-6,60 min,Not Started,guides/evolution-chinese-ed.md,Traditional Chinese edition
+2,7,Evolution: Expansion,演化論・擴充,Expansion,2-6,60 min,Not Started,guides/evolution-expansion.md,Traditional Chinese expansion
+2,8,Exploding Minions,ミニオンばくはつ,Base Game,2-5,15 min,Not Started,guides/exploding-minions.md,Japanese edition
+2,9,Cat in the Box (Deluxe Edition),Cat in the Box,Base Game,2-5,30-45 min,Not Started,guides/cat-in-the-box.md,Quantum trick-taking game
+3,1,7 Wonders Duel,7 Wonders Duel,Base Game,2,30 min,Completed,guides/7-wonders-duel.md,Includes SVG setup & turn-flow schematic
+3,2,8Bit Box,8Bit Box,Base Game,3-6,40 min,Not Started,guides/8bit-box.md,Retro console multi-game system
+3,3,Hit Z Road,Hit Z Road,Base Game,1-4,60 min,Not Started,guides/hit-z-road.md,Zombie road-trip bidding/survival
+3,4,Orbis,Orbis,Base Game,2-4,45 min,Not Started,guides/orbis.md,Tile-drafting pyramid builder
+3,5,Kanagawa,Kana Gawa,Base Game,2-4,45 min,Not Started,guides/kanagawa.md,Japanese painting tableau builder
+3,6,Carcassonne,Carcassonne,Base Game,2-5,35 min,Not Started,guides/carcassonne.md,Classic tile-laying
+3,7,Valeria: Card Kingdoms,Valeria: Card Kingdoms,Base Game,1-5,45 min,Not Started,guides/valeria-card-kingdoms.md,Dice-activated engine builder
+3,8,Inception,盜夢都市,Base Game,3-7,30-45 min,Not Started,guides/inception.md,Traditional Chinese edition
+3,9,Pickomino,蟲蟲燒烤派對,Base Game,2-7,20-30 min,Not Started,guides/pickomino.md,Push-your-luck dice game
+4,1,Viracocha,ウィラコチャ / 天空都市,Base Game,2-4,45 min,Not Started,guides/viracocha.md,Japanese edition
+4,2,King of Tokyo,King of Tokyo,Base Game,2-6,30 min,Not Started,guides/king-of-tokyo.md,Iello edition
+4,3,Hobby Japan Box (老師請給分),老師請給分 (Hobby Japan),Base Game,TBD,TBD,Needs Verification,guides/hobby-japan-box-shelf-4.md,Confirm exact English title
+4,4,Marvel Champions: The Card Game,Marvel Champions,Base Game,1-4,45-90 min,Not Started,guides/marvel-champions.md,Living Card Game Core Set
+4,5,Azul,Azul,Base Game,2-4,30-45 min,Not Started,guides/azul.md,Abstract tile drafting
+4,6,Terra,Terra,Base Game,2-6,45-60 min,Not Started,guides/terra.md,Trivia / estimation board game
+4,7,Machi Koro,街コロ (Machi Koro),Base Game,2-4,30 min,Not Started,guides/machi-koro.md,Bilingual IDW/Japanese box
+4,8,Arcane Academy,Arcane Academy,Base Game,2-4,45 min,Not Started,guides/arcane-academy.md,Tile-linking engine builder
+4,9,10 Days in the USA,10 Days in the USA,Base Game,2-4,30 min,Not Started,guides/10-days-in-the-usa.md,Route-planning tile/card game
+5,1,Funkoverse Strategy Game: Harry Potter 100,Funkoverse: Harry Potter,Base Game,2-4,20-60 min,Not Started,guides/funkoverse-harry-potter-100.md,4-character base set
+5,2,Funkoverse Strategy Game: DC Comics 100,Funkoverse: Batman,Base Game,2-4,20-60 min,Not Started,guides/funkoverse-dc-comics-100.md,4-character base set
+5,3,Marvel United,Marvel United,Base Game,1-4,40 min,Not Started,guides/marvel-united.md,CMON cooperative game
+5,4,Marvel United: Tales of Asgard,Marvel United: Tales of Asgard,Expansion,1-4,40 min,Not Started,guides/marvel-united-tales-of-asgard.md,CMON expansion
+5,5,Marvel United: Enter the Spider-Verse,Marvel United: Enter the Spider-Verse,Expansion,1-4,40 min,Not Started,guides/marvel-united-enter-the-spider-verse.md,CMON expansion
+5,6,God of War: The Card Game,God of War: The Card Game,Base Game,1-4,60-90 min,Not Started,guides/god-of-war-the-card-game.md,CMON cooperative scene-based card game
+5,7,Eclipse,ECLIPSE,Base Game,2-6,60-180 min,Not Started,guides/eclipse.md,4X space strategy
+5,8,How to Become President,大統領になる方法,Base Game,3-6,45 min,Not Started,guides/how-to-become-president.md,Friedemann Friese / Arclight Games
+5,9,504,504,Base Game,2-4,60-120 min,Not Started,guides/504.md,Friedemann Friese modular 504-games-in-1
+5,10,Fearsome Floors,Fearsome Floors,Base Game,2-7,60 min,Not Started,guides/fearsome-floors.md,Friedemann Friese dungeon escape
+6,1,Alien Frontiers,Alien Frontiers,Base Game,2-4,90 min,Not Started,guides/alien-frontiers.md,Dice-placement area control
+6,2,Kingsburg,Kingsburg,Base Game,2-5,90 min,Not Started,guides/kingsburg.md,Dice-placement kingdom builder
+6,3,Gangsi,GANGSI,Base Game,2-4,30 min,Not Started,guides/gangsi.md,Card/board game
+6,4,Small World Underground,Small World Underground,Base Game,2-5,40-80 min,Not Started,guides/small-world-underground.md,Standalone area control
+6,5,Small World,Small World,Base Game,2-5,40-80 min,Not Started,guides/small-world.md,Classic fantasy area control
+6,6,Via Nebula,Via Nebula,Base Game,2-4,45-60 min,Not Started,guides/via-nebula.md,Space Cowboys resource network
+6,7,Evolution (North Star Games),Evolution,Base Game,2-6,60 min,Not Started,guides/evolution-north-star.md,North Star Games English edition
+6,8,Machi Koro Legacy,Machi Koro Legacy,Base Game,2-4,30-45 min,Not Started,guides/machi-koro-legacy.md,10-game legacy campaign
+6,9,Battle Cry (150th Civil War Anniversary Edition),Battle Cry,Base Game,2,60 min,Not Started,guides/battle-cry.md,Command & Colors hex wargame
